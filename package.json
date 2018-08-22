@@ -1,0 +1,8 @@
+{
+  "name": "ytsync-database-filler",
+  "version": "0.0.1",
+  "dependencies": {
+    "request": "^2.87.0",
+    "sleep": "^5.1.1"
+  }
+}
